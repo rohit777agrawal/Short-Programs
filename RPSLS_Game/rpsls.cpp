@@ -20,7 +20,7 @@ int main(){
   int computer = rand()%3 +1;
   int user =0;
 
-  std::cout << "==========================================\n";
+std::cout << "==========================================\n";
 std::cout << "rock paper scissors lizard spock!\n";
 std::cout << "==========================================\n";
  
